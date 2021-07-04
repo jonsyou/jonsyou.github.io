@@ -18,9 +18,9 @@ google_analytics: #UA—XXXXXXXX-X
 disqus_shortname: #disqus shortname
 
 user:
-  name: Catbook
-  pic: /assets/img/cat.jpg
-  picAlt: "catbook"
+  name: JongSoo Hwang
+  pic: /assets/img/me.jpg
+  picAlt: "test1"
   job: a data analyst
   aboutme: true # comment this out if you don't need the 'about' page.
 
