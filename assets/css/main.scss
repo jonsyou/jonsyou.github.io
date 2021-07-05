@@ -330,12 +330,14 @@ img {
     img {
         @extend .header_circle;
     }
-
+   
+/*
     &:hover {
         cursor: pointer;
         animation: jiggle 2s ease-in-out infinite;
     }
-
+*/
+   
     @include mobile-only {
         bottom: 0;
         left: 0;
